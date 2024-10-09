@@ -306,7 +306,7 @@
   2. Subtract and bring down the next bit.
   3. Repeat until all bits are processed.
  
-  4. # Fundamental of Electrical and Digital Electronics: Lecture Topic 1.2.5
+# Fundamental of Electrical and Digital Electronics: Lecture Topic 1.2.5
 
 ## Binary Number Representation
 
